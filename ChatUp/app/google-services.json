@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432627941770",
+    "firebase_url": "https://chatupp-afae1.firebaseio.com",
+    "project_id": "chatupp-afae1",
+    "storage_bucket": "chatupp-afae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432627941770:android:38bbfb2004692e43",
+        "android_client_info": {
+          "package_name": "com.example.fedet.chatup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432627941770-b8neg6vk18hfmhpbvr7616gd9rgn5d1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fedet.chatup",
+            "certificate_hash": "565609c7b2e948590139629593bfc0025c6f0fc4"
+          }
+        },
+        {
+          "client_id": "432627941770-1c65viuo05vni8125et4493frs57nq55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1sJSA0rhnNCne_2hYL_F0wCihHM0SuKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432627941770-1c65viuo05vni8125et4493frs57nq55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
